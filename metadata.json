@@ -1,0 +1,6 @@
+{
+  "name": "ASCEND - Mentalidad Ganadora & Dominio Personal",
+  "description": "PWA premium de mentalidad ganadora, disciplina y hábitos innegociables. Manifiesto diario, victorias, modo enfoque inmersivo y sistema de rangos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
